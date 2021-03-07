@@ -97,3 +97,7 @@ console.log(data);
 for(let k in data){  //k = key
     console.log(k);
 }
+
+for(let i =0;i<5;i++){
+    console.log(i);
+}
