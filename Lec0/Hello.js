@@ -1,4 +1,5 @@
 console.log("Hello selfish world!");
+console.log("just to check git is working fine or not");
 
 // # First Time
 // * git config --global user.name  "sushant"
